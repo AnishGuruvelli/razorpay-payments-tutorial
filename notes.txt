@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=nGZbqT4lb_g&list=PLYxzS__5yYQnToRmRw4l8Y-zDb-kOXqio&index=2
+https://github.com/mehulmpt/razorpay-payments-tutorial
+https://razorpay.com/docs/payments/payment-gateway/get-started/
+https://razorpay.com/docs/payments/payment-gateway/how-it-works/
+https://razorpay.com/docs/payments/payment-gateway/
